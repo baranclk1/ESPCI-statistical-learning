@@ -6,7 +6,6 @@ This repository contains two Jupyter notebooks developed as part of the **Statis
 
 ## Linear Regression on global temperature anomalies
 
-**Objective:**  
 Model long-term climate trends using global temperature anomaly data from 1840 to 2020.
 
 
@@ -14,7 +13,6 @@ Model long-term climate trends using global temperature anomaly data from 1840 t
 
 ## Principal component analysis
 
-**Objective:**  
 Apply PCA to reduce dimensionality and analyze two different types of high-dimensional datasets:
 - Human face images (for compression and reconstruction)
 - Fluid dynamics snapshots (for flow pattern extraction)
