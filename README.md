@@ -4,7 +4,7 @@ This repository contains two Jupyter notebooks developed as part of the **Statis
 
 ---
 
-## Linear Regression on global temperature anomalies
+## Linear regression on global temperature anomalies
 
 Model long-term climate trends using global temperature anomaly data from 1840 to 2020.
 
